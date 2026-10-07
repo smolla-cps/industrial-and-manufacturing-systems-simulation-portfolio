@@ -2,7 +2,6 @@
 
 This folder contains a sequence of FlexSim models that I built by following the official **Autodesk FlexSim 2027 Basics Tutorial**. The models document my hands-on practice with 3D discrete-event simulation, simulation data collection, Process Flow modeling, and integration between Process Flow and 3D objects.
 
-> **Note:** These are guided learning models based on the official FlexSim tutorial. They are included in this portfolio to document my FlexSim training and modeling practice; they are not presented as independently designed projects.
 
 ## Official Tutorial
 
