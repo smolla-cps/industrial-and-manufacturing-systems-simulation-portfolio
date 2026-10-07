@@ -1,0 +1,28 @@
+# FlexSim Custom Objects Guided Models — Requirements
+#
+# These models are FlexSim simulation model files (.fsm).
+# No Python packages are required.
+#
+# Required software:
+# - Autodesk FlexSim 2027
+#
+# Tutorial reference:
+# https://help.autodesk.com/view/FLEXSIMIN/2027/ENU/?guid=FlexSim_User_Manual_tutorials_processflow_tutorial5creatinglogic_customobjectsoverview_html
+#
+# Model topics:
+# - Custom fixed resources
+# - BasicFR
+# - Object Process Flow
+# - Task Executer Process Flow
+# - Process Flow instances
+# - Receive and Release Item logic
+# - Wait for Event
+# - Breathe activities
+# - Conditional Decide
+# - Max Wait Timer
+# - Operator break-room logic
+#
+# Usage:
+# Open the .fsm files directly in Autodesk FlexSim.
+#
+# No pip-installable dependencies are required.
