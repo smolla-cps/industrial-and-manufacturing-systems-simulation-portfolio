@@ -1,10 +1,8 @@
 # FlexSim Coordinated Tasks — Guided Models
 
-This folder contains FlexSim models that I built while following the official **FlexSim Tutorial 2 — Coordinated Tasks**.
 
 The tutorial focuses on task coordination in Process Flow. It begins with a standard transportation-task model and then extends that model so two operators can work together on the same heavy-box transportation task.
 
-> **Note:** These are guided learning models based on the official FlexSim tutorial. They are included in this portfolio to document my FlexSim training and hands-on modeling practice and are not presented as independently designed projects.
 
 ## Official Tutorial
 
@@ -80,12 +78,8 @@ The coordinated logic uses a **Split** activity to create separate task-control 
 03_FlexSim_Coordinated_Tasks_Guided_Models/
 ├── README.md
 ├── requirements.txt
-├── models/
-│   ├── 2.1_Create_Standard_Loading_Tasks.fsm
-│   └── 2.2_Create_Coordinated_Loading_Tasks.fsm
-└── images/
-    ├── 2.1_Standard_Loading_Tasks.png
-    └── 2.2_Coordinated_Loading_Tasks.png
+├── 2.1_Create_Standard_Loading_Tasks.fsm
+│── 2.2_Create_Coordinated_Loading_Tasks.fsm
 ```
 
 ## How to Use the Models
@@ -135,10 +129,6 @@ Coordinated Two-Operator Transport
 ```
 
 The sequence shows how a standard single-operator transportation task can be extended into a coordinated task that requires multiple operators to complete the same job together.
-
-## Attribution
-
-The modeling exercises and tutorial sequence in this folder follow the official **FlexSim Tutorial 2 — Coordinated Tasks**. The `.fsm` files are my implementations created while completing those guided exercises.
 
 Official tutorial:
 
