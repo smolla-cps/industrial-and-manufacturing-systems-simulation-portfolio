@@ -1,0 +1,26 @@
+# FlexSim Conditional Tasks Guided Models — Requirements
+#
+# These models are FlexSim simulation model files (.fsm).
+# No Python packages are required.
+#
+# Required software:
+# - Autodesk FlexSim 2027
+#
+# Tutorial reference:
+# https://help.autodesk.com/view/FLEXSIMIN/2027/ENU/?guid=FlexSim_User_Manual_tutorials_tasklogic_tutorial3conditionaltasks_conditionaltasksoverview_html
+#
+# Model topics:
+# - Process Flow
+# - Lists
+# - Arrays
+# - Sub flows
+# - Nested sub flows
+# - Conditional tasks
+# - Queue-capacity constraints
+# - Dynamic destination selection
+# - FlexScript expressions
+#
+# Usage:
+# Open the .fsm files directly in Autodesk FlexSim.
+#
+# No pip-installable dependencies are required.
