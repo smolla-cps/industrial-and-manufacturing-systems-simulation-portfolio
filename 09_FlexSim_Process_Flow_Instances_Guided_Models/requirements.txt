@@ -1,0 +1,27 @@
+# FlexSim Process Flow Instances Guided Models — Requirements
+#
+# These models are FlexSim simulation model files (.fsm).
+# No Python packages are required.
+#
+# Required software:
+# - Autodesk FlexSim 2027
+#
+# Tutorial reference:
+# https://help.autodesk.com/view/FLEXSIMIN/2027/ENU/?guid=FlexSim_User_Manual_tutorials_processflow_tutorial4instances_instancesoverview_html
+#
+# Model topics:
+# - Process Flow instances
+# - Object Process Flow
+# - Copy-and-paste cloning
+# - Local and global assets
+# - Dynamic instance references
+# - Task sequences
+# - Lists and list queries
+# - Custom Code
+# - Dynamic 3D sticker-roll animation
+# - Simultaneous instance updates
+#
+# Usage:
+# Open the .fsm files directly in Autodesk FlexSim.
+#
+# No pip-installable dependencies are required.
