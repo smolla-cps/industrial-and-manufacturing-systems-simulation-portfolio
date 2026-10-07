@@ -1,0 +1,23 @@
+# FlexSim Task Logic Guided Models — Requirements
+#
+# These models are FlexSim simulation model files (.fsm).
+# No Python packages are required.
+#
+# Required / recommended software:
+# - Autodesk FlexSim 2027
+#
+# Tutorial reference:
+# https://help.autodesk.com/view/FLEXSIMIN/2027/ENU/?guid=FlexSim_User_Manual_tutorials_tasklogic_tutorial1tasklogictools_tasklogictoolsoverview_html
+#
+# Model topics:
+# - Standard 3D task logic
+# - Operators and dispatchers
+# - Process Flow task sequences
+# - Local lists
+# - Global task-sequence lists
+# - Task priorities and preemption
+#
+# Usage:
+# Open the .fsm files directly in Autodesk FlexSim.
+#
+# No pip-installable dependencies are required.
