@@ -1,0 +1,28 @@
+# FlexSim Advanced Task Sequences and Subflows Guided Models — Requirements
+#
+# These models are FlexSim simulation model files (.fsm).
+# No Python packages are required.
+#
+# Model file version:
+# - FlexSim 26.0
+#
+# Required software:
+# - Autodesk FlexSim 26.0 or a compatible newer release
+#
+# Model topics:
+# - Process Flow
+# - Subflows
+# - Object subflows
+# - Task sequences
+# - Travel, Load, and Unload tasks
+# - Resource acquisition and release
+# - Split and Synchronize activities
+# - Multi-operator coordination
+# - Event-triggered task logic
+# - Series processors
+# - Batch activities
+#
+# Usage:
+# Open the .fsm files directly in Autodesk FlexSim.
+#
+# No pip-installable dependencies are required.
