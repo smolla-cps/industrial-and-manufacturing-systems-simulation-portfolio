@@ -1,0 +1,27 @@
+# FlexSim Sub Process Flows Guided Models — Requirements
+#
+# These models are FlexSim simulation model files (.fsm).
+# No Python packages are required.
+#
+# Required software:
+# - Autodesk FlexSim 2027
+#
+# Tutorial reference:
+# https://help.autodesk.com/view/FLEXSIMIN/2027/ENU/?guid=FlexSim_User_Manual_tutorials_processflow_tutorial3subprocessflows_subprocessflowsoverview_html
+#
+# Model topics:
+# - Process Flow sub flows
+# - Parent and child tokens
+# - Run Sub Flow
+# - Wait for Event
+# - Override Return Value
+# - Processor process-time control
+# - Decide activities
+# - Multiple Finish activities
+# - Product-type labels
+# - Dynamic visual changes
+#
+# Usage:
+# Open the .fsm files directly in Autodesk FlexSim.
+#
+# No pip-installable dependencies are required.
