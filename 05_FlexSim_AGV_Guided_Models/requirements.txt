@@ -1,0 +1,27 @@
+# FlexSim AGV Guided Models — Requirements
+#
+# These models are FlexSim simulation model files (.fsm).
+# No Python packages are required.
+#
+# Required software:
+# - Autodesk FlexSim 2027
+#
+# Tutorial reference:
+# https://help.autodesk.com/view/FLEXSIMIN/2027/ENU/?guid=FlexSim_User_Manual_tutorials_tasklogic_tutorial4agvs_agvoverview_html
+#
+# Model topics:
+# - AGV path networks
+# - Control points
+# - Standard 3D AGV logic
+# - AGV Process Flow templates
+# - Global lists
+# - Pickup, drop-off, and park points
+# - Multi-AGV systems
+# - Elevator-based AGV transport
+# - Global tables
+# - Custom loading and unloading times
+#
+# Usage:
+# Open the .fsm files directly in Autodesk FlexSim.
+#
+# No pip-installable dependencies are required.
