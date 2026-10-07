@@ -1,0 +1,26 @@
+# FlexSim Conveyors Guided Models — Requirements
+#
+# These models are FlexSim simulation model files (.fsm).
+# No Python packages are required.
+#
+# Required software:
+# - Autodesk FlexSim 2027
+#
+# Tutorial reference:
+# https://help.autodesk.com/view/FLEXSIMIN/2027/ENU/?guid=FlexSim_User_Manual_tutorials_additionaltools_tutorial1conveyors_conveyorsoverview_html
+#
+# Model topics:
+# - Conveyor sorting
+# - Decision Points
+# - Merging conveyors
+# - Area restriction
+# - Slug building
+# - Merge Controllers
+# - Conveyor gapping
+# - Process Flow integration
+# - Power-and-free conveyor systems
+#
+# Usage:
+# Open the .fsm files directly in Autodesk FlexSim.
+#
+# No pip-installable dependencies are required.
