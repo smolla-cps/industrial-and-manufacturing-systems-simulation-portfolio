@@ -1,0 +1,15 @@
+# FlexSim Basics — Software Requirements
+#
+# This folder does not require Python packages.
+# The models are FlexSim simulation model files (.fsm).
+#
+# Required / recommended software:
+# - Autodesk FlexSim 2027
+#
+# Tutorial reference:
+# https://help.autodesk.com/view/FLEXSIMIN/2027/ENU/?guid=FlexSim_User_Manual_tutorials_flexsimbasics_basicsoverview_html
+#
+# Usage:
+# Open the .fsm files directly in FlexSim.
+#
+# No pip-installable dependencies are required.
