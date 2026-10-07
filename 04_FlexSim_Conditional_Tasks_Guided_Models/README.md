@@ -1,6 +1,5 @@
 # FlexSim Conditional Tasks — Guided Models
 
-This folder contains FlexSim models that I built while following the official **FlexSim Tutorial 3 — Conditional Tasks**.
 
 The tutorial focuses on building transportation tasks that respond to changing conditions during a simulation run. It introduces sub flows, arrays, nested sub flows, conditional decision logic, and FlexScript expressions for dynamically selecting destinations based on queue capacity.
 
@@ -43,8 +42,6 @@ The operator pulls several items from a list, stores references to those items i
 
 This stage builds the foundation for handling groups of items and reusable task logic through sub flows.
 
-**Suggested model filename:** `3.1_Use_Sub_Flows_and_Arrays.fsm`
-
 ---
 
 ### 3.2 — Add Conditional Tasks
@@ -78,8 +75,6 @@ The operator evaluates the available space at each destination and changes the u
 - Capacity-based unloading logic
 
 The unloading logic uses nested sub flows and Decide activities to test each destination dynamically. The model compares current queue content with maximum capacity, attempts another destination when necessary, and waits for a queue-space event when all destinations are full.
-
-**Suggested model filename:** `3.2_Add_Conditional_Tasks.fsm`
 
 ## Recommended Folder Structure
 
