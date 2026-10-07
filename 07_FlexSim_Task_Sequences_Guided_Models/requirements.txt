@@ -1,0 +1,25 @@
+# FlexSim Task Sequences Guided Models — Requirements
+#
+# These models are FlexSim simulation model files (.fsm).
+# No Python packages are required.
+#
+# Required software:
+# - Autodesk FlexSim 2027
+#
+# Tutorial reference:
+# https://help.autodesk.com/view/FLEXSIMIN/2027/ENU/?guid=FlexSim_User_Manual_tutorials_processflow_tutorial2tasksequences_tasksequencesoverview_html
+#
+# Model topics:
+# - Process Flow task sequences
+# - Sub flows
+# - Process Flow instances
+# - Dynamic labels and references
+# - Load and unload activities
+# - Custom Code activities
+# - Shared resources
+# - Operator cleaning tasks
+#
+# Usage:
+# Open the .fsm files directly in Autodesk FlexSim.
+#
+# No pip-installable dependencies are required.
