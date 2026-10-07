@@ -1,6 +1,5 @@
 # FlexSim Task Logic — Guided Models
 
-This folder contains FlexSim models that I built while following the official **Autodesk FlexSim 2027 Task Logic Tools Tutorial**.
 
 The tutorial compares several ways to create and manage tasks for task executers in FlexSim. The sequence starts with standard 3D object logic, then moves to Process Flow task sequences, list-based task logic, and global-list-based task assignment.
 
@@ -116,10 +115,10 @@ This stage demonstrates a more flexible task-assignment structure in which Proce
 ├── README.md
 ├── requirements.txt
 ├── models/
-│   ├── 1.1_Tasks_Using_Standard_3D_Logic.fsm
-│   ├── 1.2_Tasks_Using_Process_Flow.fsm
-│   ├── 1.3_Tasks_Using_Lists.fsm
-│   └── 1.4_Tasks_Using_Global_Lists.fsm
+├── 1.1_Tasks_Using_Standard_3D_Logic.fsm
+├── 1.2_Tasks_Using_Process_Flow.fsm
+├── 1.3_Tasks_Using_Lists.fsm
+└── 1.4_Tasks_Using_Global_Lists.fsm
 ```
 
 ## How to Use the Models
