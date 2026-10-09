@@ -1,0 +1,37 @@
+# FlexSim Advanced Conveyor Control Guided Models — Requirements
+#
+# These models are FlexSim simulation model files (.fsm).
+# No Python packages are required.
+#
+# Training material:
+# - Advanced Conveyor Training 2024
+# - Advanced Conveyor Control using Process Flow
+#
+# Required software:
+# - Autodesk FlexSim with Process Flow and Conveyor libraries
+#
+# Model topics:
+# - Advanced conveyor control
+# - Decision Points
+# - Process Flow lists
+# - List queries and partitions
+# - Event listening
+# - Scheduled and Date/Time sources
+# - Reversible conveyors
+# - Synchronize activity
+# - Subflows
+# - Arrays
+# - Excel Importer
+# - Photo-eye logic
+# - Capacity management
+# - Slug building
+# - Merge Controller
+#
+# Optional:
+# - Microsoft Excel or another compatible spreadsheet application may be useful
+#   if repeating or modifying the schedule-import portion of the training.
+#
+# Usage:
+# Open the .fsm files directly in Autodesk FlexSim.
+#
+# No pip-installable dependencies are required.
