@@ -1,0 +1,28 @@
+# FlexSim Process Flow Lists Guided Models — Requirements
+#
+# These models are FlexSim simulation model files (.fsm).
+# No Python packages are required.
+#
+# Model file version:
+# - FlexSim 26.0
+#
+# Required software:
+# - Autodesk FlexSim 26.0 or a compatible newer release
+#
+# Model topics:
+# - Global lists
+# - Process Flow lists
+# - Push to List and Pull from List
+# - Partition IDs
+# - WHERE queries
+# - ORDER BY sorting
+# - Back orders
+# - Inventory and storage lists
+# - Global tables
+# - Pallet-part matching
+# - Double-list crane logic
+#
+# Usage:
+# Open the .fsm files directly in Autodesk FlexSim.
+#
+# No pip-installable dependencies are required.
