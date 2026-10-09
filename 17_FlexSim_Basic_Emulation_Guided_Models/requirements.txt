@@ -1,0 +1,34 @@
+# FlexSim Basic Emulation Guided Models — Requirements
+#
+# These models are FlexSim simulation model files (.fsm).
+# No Python packages are required.
+#
+# Tutorial source version:
+# - FlexSim 26.0 documentation
+#
+# Required software:
+# - Autodesk FlexSim 26.0 or a compatible newer release
+#
+# Model topics:
+# - Basic PLC emulation
+# - Conveyor control
+# - Photo-eye sensors
+# - Conveyor motors
+# - Process Flow variables
+# - Internal OPC DA connection
+# - Sensor and control tags
+# - Set Variable and Get Variable
+# - Conditional Decide
+# - Wait for Event
+# - Conveyor area restriction
+#
+# External PLC / OPC server:
+# - Not required for the guided internal-emulation models.
+# - FlexSim can use an internal OPC DA connection while developing the logic.
+# - An external OPC DA server and real tag IDs are only needed if extending
+#   the models to validate logic against an actual PLC/server connection.
+#
+# Usage:
+# Open the .fsm files directly in Autodesk FlexSim.
+#
+# No pip-installable dependencies are required.
