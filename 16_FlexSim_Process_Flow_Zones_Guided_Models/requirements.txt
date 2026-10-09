@@ -1,0 +1,29 @@
+# FlexSim Process Flow Zones Guided Models — Requirements
+#
+# These models are FlexSim simulation model files (.fsm).
+# No Python packages are required.
+#
+# Model file version:
+# - FlexSim 26.0
+#
+# Required software:
+# - Autodesk FlexSim 26.0 or a compatible newer release
+#
+# Model topics:
+# - Conveyor restricted areas
+# - Rack and storage systems
+# - Item and slot type matching
+# - Dwell-time logic
+# - Process Flow Zones
+# - Enter Zone and Exit Zone
+# - Zone partitions
+# - Zone subsets
+# - Zone calculations
+# - Zone constraints
+# - Customized statistics
+# - Conveyor-zone restrictions
+#
+# Usage:
+# Open the .fsm files directly in Autodesk FlexSim.
+#
+# No pip-installable dependencies are required.
