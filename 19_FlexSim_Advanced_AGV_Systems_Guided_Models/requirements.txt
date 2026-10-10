@@ -1,0 +1,37 @@
+# FlexSim Advanced AGV Systems Guided Models — Requirements
+#
+# These models are FlexSim simulation model files (.fsm).
+# No Python packages are required.
+#
+# Training material:
+# - Advanced AGV Training 2024
+# - Advanced AGV Systems Using The AGV Templates
+#
+# Required software:
+# - Autodesk FlexSim with AGV and Process Flow functionality
+#
+# Model topics:
+# - AGV pathways
+# - Control Points
+# - AGV Network Properties
+# - Instanced Process Flow
+# - Task sequences
+# - AGV API
+# - NextWorkPoint connections
+# - Process Flow lists
+# - Work Forwarding
+# - Park Points
+# - Heuristic parking
+# - Battery tracking
+# - Pickup and Dropoff Points
+# - AGV trailers
+# - FlexScript for loops
+# - User commands
+#
+# Usage:
+# Open the .fsm files directly in Autodesk FlexSim.
+#
+# External packages:
+# - None
+#
+# No pip-installable dependencies are required.
