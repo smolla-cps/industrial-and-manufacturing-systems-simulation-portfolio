@@ -1,0 +1,44 @@
+# FlexSim Warehouse Operations Guided Models — Requirements
+#
+# These models are FlexSim simulation model files (.fsm).
+# No Python packages are required.
+#
+# Training material:
+# - FlexSim Warehouse Training 2022
+#
+# Required software:
+# - Autodesk FlexSim with Process Flow, Storage System, and A* Navigation functionality
+#
+# Model topics:
+# - Warehouse layout and rack modeling
+# - Global Tables
+# - Excel Import/Export
+# - Storage System address schemes
+# - Slot Labels and Color Palettes
+# - Initial inventory
+# - Find Slot and Find Item
+# - Date/Time Source
+# - Work lists and milestone lists
+# - Instanced Process Flow
+# - Task sequences
+# - A* Navigation
+# - Table.query()
+# - SQL-style GROUP BY, ARRAY_AGG, and JOIN logic
+# - Picker roles and FIFO/LIFO rules
+# - Randomized orders
+# - Performance Profiler
+# - Indexed Labels
+# - Cached Queries
+# - Cached A* paths
+#
+# Optional training resources:
+# - Microsoft Excel or another compatible spreadsheet application may be useful
+#   when reproducing the external-data import steps.
+# - A DWG/DXF warehouse drawing may be useful when rebuilding the Chapter 1
+#   layout from the original training exercise.
+#
+# Usage:
+# Open the .fsm files directly in Autodesk FlexSim and follow the models in
+# chapter order.
+#
+# No pip-installable dependencies are required.
