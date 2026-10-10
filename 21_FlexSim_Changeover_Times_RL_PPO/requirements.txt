@@ -1,0 +1,31 @@
+# FlexSim Changeover Times RL PPO — Python Requirements
+#
+# Environment versions recorded in the saved PPO model:
+# Python 3.13.4
+# Stable-Baselines3 2.6.0
+# Gymnasium 1.1.1
+# PyTorch 2.7.1+cpu
+# NumPy 2.3.0
+# Cloudpickle 3.1.1
+#
+# FlexSim:
+# The uploaded scripts are configured for Autodesk FlexSim 2025.
+# Update the FlexSim executable and model paths if using another installation.
+#
+# Python dependencies:
+
+stable-baselines3==2.6.0
+gymnasium==1.1.1
+numpy==2.3.0
+torch==2.7.1
+cloudpickle==3.1.1
+
+# Python standard-library modules used by the project do not require installation:
+# os
+# subprocess
+# socket
+# json
+# http.server
+# urllib.parse
+#
+# No separate package is required for the local TCP/HTTP communication.
